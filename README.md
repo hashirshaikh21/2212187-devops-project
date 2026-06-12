@@ -2,7 +2,7 @@
 
 > **Student:** Hashir Shaikh — 2212187
 > **Course:** Intro to Dev & Ops
-> **Live URL:** http://18.205.19.220/health
+> **Live URL:** http://18.205.19.220:8000/docs
 
 ---
 
